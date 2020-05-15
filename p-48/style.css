@@ -1,0 +1,22 @@
+
+h1{
+    color : black;
+}
+.flexContainerr{
+    display: flex;
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+}
+;
+
+.unique{
+display: flex;
+width: 600px;
+height: 900px;
+}
+.Tarak{
+text-align:center ;
+background-image :linear-gradient(blue,pink,red);
+text-shadow: 2px 2px green;
+margin: 5px;
+padding: 3px ;
+}
